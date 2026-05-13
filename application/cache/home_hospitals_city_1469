@@ -1,0 +1,9 @@
+a:3:{s:4:"time";i:1778143016;s:3:"ttl";i:600;s:4:"data";a:4:{i:0;O:8:"stdClass":10:{s:2:"id";s:2:"55";s:4:"name";s:15:"Apollo Hospital";s:7:"address";s:49:"<p>
+	JC-16 &amp; 17, Sector III, Salt Lake</p>
+";s:5:"phone";s:9:"900288210";s:7:"city_id";s:4:"1469";s:8:"latitude";N;s:9:"longitude";N;s:10:"doctor_img";N;s:12:"hospital_img";N;s:6:"status";s:6:"Active";}i:1;O:8:"stdClass":10:{s:2:"id";s:1:"1";s:4:"name";s:23:"Disha Eye Care Hospital";s:7:"address";s:175:"<p>
+	<sub><span font-size:="" font-weight:="" google="" style="color: rgb(31, 31, 31); font-family: " text-wrap-mode:="">City Center, Durgapur, West Bengal</span></sub></p>
+";s:5:"phone";N;s:7:"city_id";s:4:"1469";s:8:"latitude";N;s:9:"longitude";N;s:10:"doctor_img";N;s:12:"hospital_img";N;s:6:"status";s:6:"Active";}i:2;O:8:"stdClass":10:{s:2:"id";s:1:"2";s:4:"name";s:16:"IQ City Hospital";s:7:"address";s:20:"<p>
+	Durgapur</p>
+";s:5:"phone";s:10:"9002882160";s:7:"city_id";s:4:"1469";s:8:"latitude";N;s:9:"longitude";N;s:10:"doctor_img";N;s:12:"hospital_img";N;s:6:"status";s:6:"Active";}i:3;O:8:"stdClass":10:{s:2:"id";s:2:"44";s:4:"name";s:16:"Mission Hospital";s:7:"address";s:24:"<p>
+	test address</p>
+";s:5:"phone";s:11:"98745632145";s:7:"city_id";s:4:"1469";s:8:"latitude";N;s:9:"longitude";N;s:10:"doctor_img";N;s:12:"hospital_img";N;s:6:"status";s:6:"Active";}}}
